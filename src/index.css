@@ -8,14 +8,15 @@ body {
 }
 
 .mainContainer{
-  background-color: #322F95;
+  background-image: url('./images/background-image.png');
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
   height: 100vh;
   width: 30em;
-  margin-left: 40em;
+  margin-left: auto;
+  margin-right: auto;
 
 }
 
